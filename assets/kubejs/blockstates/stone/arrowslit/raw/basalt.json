@@ -1,0 +1,19 @@
+{
+	"variants": {
+	  "facing=north": {
+		"model": "kubejs:block/stone/arrowslit/raw/basalt"
+	  },
+	  "facing=east": {
+		"model": "kubejs:block/stone/arrowslit/raw/basalt",
+		"y": 90
+	  },
+	  "facing=south": {
+		"model": "kubejs:block/stone/arrowslit/raw/basalt",
+		"y": 180
+	  },
+	  "facing=west": {
+		"model": "kubejs:block/stone/arrowslit/raw/basalt",
+		"y": 270
+	  }
+	}
+  }
