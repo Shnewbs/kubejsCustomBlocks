@@ -28,7 +28,7 @@ TFCStoneVarient.forEach(TFCStoneVarient => {
         .soundType("stone") // Set a material (affects the sounds and some properties)
         .hardness(1.0) // Set hardness (affects mining time)
         .resistance(1.0) // Set resistance (to explosions, etc)
-        .model(`kubejs:block/stone/${TFCStoneVarient}/pathway/${PathStyles}/${TFCStoneTypes}`)
+        .model(`kubejs:block/tfc/stone/${TFCStoneVarient}/pathway/${PathStyles}/${TFCStoneTypes}`)
         .defaultCutout()
         .waterlogged()
         .box(0, 0, 0, 16, 0.8, 16)
