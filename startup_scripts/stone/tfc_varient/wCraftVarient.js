@@ -11,7 +11,7 @@ StartupEvents.registry("block", (event) => {
         }
         return frags.join(' ');
       }
-      const StoneTypes = ["stone.01","stone.02","stone.03"]
+      const StoneTypes = ["stone.01","stone.02","stone.03","stone.04","stone.05","stone.06","stone.07","stone.08","stone.09","stone.10","stone.11","stone.12","stone.13","stone.14","stone.15","stone.16","stone.17"]
 
       const StoneVarient = [""]
       
